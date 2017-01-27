@@ -19,9 +19,6 @@
     using System.Security.Claims;
     using Microsoft.Owin;
     using Castle.Windsor;
-    //using POC_ADFS.Web.Plumbing;
-    //using POC_ADFS.Business.Services.Contracts;
-    //using POC_ADFS.Business.Services.Implementation;
 
     using Microsoft.AspNet.Identity.Owin;
     using System.Web.Mvc;
